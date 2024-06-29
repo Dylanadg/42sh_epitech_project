@@ -2,6 +2,10 @@
 
 ![42sh](ressources/42sh.gif)
 
+pour compiler faite la commande :
+ - make
+ - ./42sh
+
 Création d'un shell à 4 avec pour objectif:  
 - Analyse lexicale ("Lexing")  
 - Analyse syntaxique ("Parsing")  
